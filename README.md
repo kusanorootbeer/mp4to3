@@ -19,7 +19,7 @@ pip install pyinstaller moviepy
 ```bash
 python mp4to3.py hoge.mp4
 ```
-It makes ```hoge.mp3 ```
+It makes ```hoge.mp3```
 
 # Usage2: Make exe file which transfom mp4 file to mp3 file.
 ```bash
