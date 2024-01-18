@@ -25,7 +25,7 @@ It makes ```hoge.mp3 ```
 ```bash
 pyinstaller mp4to3.py --onefile
 ```
-Then you can find ```/dist/mp4to3.exe```  
+Then you can find ```./dist/mp4to3.exe```  
 You execute mp4 file by mp4to3.exe like below.
 The mp4 file be transformed into mp3.
 
